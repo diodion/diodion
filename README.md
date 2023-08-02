@@ -1,5 +1,5 @@
 ## 🕵️  About Me:
-Aspiring fullstack developer currently taking classes in PUC Minas! 
+Aspiring fullstack developer
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=diodion&theme=dark&hide_border=true)<br/>
